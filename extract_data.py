@@ -32,26 +32,26 @@ def extract_data(database_url, user_table_name, product_table_name, transaction_
     try:
     # Connect to the SQLite database
         conn = sqlite3.connect(database_url)
-        cursor = conn.cursor()
+        cur = conn.cur()
 
         # Extract data from User table
         try:
-            cursor.execute(f"SELECT * FROM {user_table_name}")
-            user_records = cursor.fetchall()
+            cur.execute(f"SELECT * FROM {user_table_name}")
+            user_records = cur.fetchall()
         except sqlite3.DatabaseError as e:
             logging.info(f"Error extracting data from {user_table_name}: {e}")
 
         # Extract data from Product table
         try:
-            cursor.execute(f"SELECT * FROM {product_table_name}")
-            product_records = cursor.fetchall()
+            cur.execute(f"SELECT * FROM {product_table_name}")
+            product_records = cur.fetchall()
         except sqlite3.DatabaseError as e:
             logging.info(f"Error extracting data from {product_table_name}: {e}")
 
         # Extract data from Transaction table
         try:
-            cursor.execute(f"SELECT * FROM {transaction_table_name}")
-            transaction_records = cursor.fetchall()
+            cur.execute(f"SELECT * FROM {transaction_table_name}")
+            transaction_records = cur.fetchall()
         except sqlite3.DatabaseError as e:
             logging.info(f"Error extracting data from {transaction_table_name}: {e}")
 
