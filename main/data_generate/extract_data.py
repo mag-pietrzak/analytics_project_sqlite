@@ -4,6 +4,7 @@ import logging
 import os
 from generate_data import generate_data
 from database_setup import create_database, Session 
+from main.config import base_path
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -32,7 +33,7 @@ def extract_data(database_url, user_table_name, product_table_name, transaction_
     try:
     # Connect to the SQLite database
         conn = sqlite3.connect(database_url)
-        cur = conn.cur()
+        cur = conn.cursor()
 
         # Extract data from User table
         try:
@@ -72,21 +73,27 @@ def save_files(user_records, product_records, transaction_records):
     product_data = [{"product_id": row[0], "product_name": row[1], "product_category": row[2],"product_type": row[3] , "product_price": row[4]} for row in product_records]
     transaction_data = [{"transaction_id": row[0], "user_id": row[1], "product_id": row[2], "transaction_date": row[3]} for row in transaction_records]
 
+    file_path_user = os.path.join(base_path, "user_records.json")
+    file_path_product = os.path.join(base_path, "product_records.json")
+    file_path_transaction = os.path.join(base_path, "transaction_records.json")
+
     """Saves data to a JSON file."""
-    with open("user_records.json", "w") as user_file:
+    with open(file_path_user, "w") as user_file:
         json.dump(user_data, user_file, indent=4)
 
-    with open("product_records.json", "w") as product_file:
+    with open(file_path_product, "w") as product_file:
         json.dump(product_data, product_file, indent=4)
 
-    with open("transaction_records.json", "w") as transaction_file:
+    with open(file_path_transaction, "w") as transaction_file:
         json.dump(transaction_data, transaction_file, indent=4)
 
     logging.info("Files saved successfully.")
 
 # Final generating of data and saving into JSON files
 def main():
-    if not os.path.exists('fake_online_shop.db'):
+    database_url = 'data_generate/database/fake_online_shop.db'
+
+    if not os.path.exists(database_url):
         logging.info("Database file does not exist. Creating new database.")
         engine = create_database()
         session = Session()
@@ -94,13 +101,12 @@ def main():
     else:
         logging.info("Database file exists. Skipping creation.")
 
-    database_url = 'fake_online_shop.db'
     user_table_name = 'Users'
     product_table_name = 'Products'
     transaction_table_name = 'Transactions'
 
     user_records, product_records, transaction_records = extract_data(database_url, user_table_name, product_table_name, transaction_table_name)
-        # Proceed to save the extracted data to JSON files or perform further operations
+    # Proceed to save the extracted data to JSON files or perform further operations
     save_files(user_records, product_records, transaction_records)
     logging.info("Files saved successfully.")
 

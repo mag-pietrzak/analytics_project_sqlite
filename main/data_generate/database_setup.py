@@ -7,7 +7,7 @@ from sqlalchemy.orm import sessionmaker
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Define constants
-database_url = 'sqlite:///fake_online_shop.db'
+database_url = 'sqlite:///data_generate/database/fake_online_shop.db'
 no_rec = 6000
 
 # Define database schema

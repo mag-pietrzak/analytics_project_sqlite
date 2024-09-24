@@ -1,671 +1,671 @@
 [
     {
-        "product_id": "eeaaa0be-51c9-4940-9351-80fa00ae2530",
+        "product_id": "6f2eeeea-8534-4ebf-81a6-3d1dc7cbfd0e",
         "product_name": "XYZ Pro Max 12GB RAM",
         "product_category": "Electronics",
         "product_type": "Smartphone",
         "product_price": 999.99
     },
     {
-        "product_id": "d41d01dd-e84e-4a96-b9f6-21586f2ccbc9",
+        "product_id": "704ef4a3-a681-4293-97fd-25b4bfa1bb78",
         "product_name": "ABC Lite 5G",
         "product_category": "Electronics",
         "product_type": "Smartphone",
         "product_price": 499.99
     },
     {
-        "product_id": "c01bfc21-1180-4617-9d2b-a5683ea9a2f0",
+        "product_id": "e4f2952d-ead4-4397-8f0d-a5c1de3c4bca",
         "product_name": "UltraBook 14\u201d Intel i7",
         "product_category": "Electronics",
         "product_type": "Laptop",
         "product_price": 1299.99
     },
     {
-        "product_id": "c58f6de3-011b-4f65-82fe-3b80db291dc4",
+        "product_id": "b7a0a8cf-9abf-4d43-a4a1-00f8187c0abb",
         "product_name": "PowerLaptop 15\u201d AMD Ryzen 7",
         "product_category": "Electronics",
         "product_type": "Laptop",
         "product_price": 1099.99
     },
     {
-        "product_id": "a530f821-3445-441b-b2a1-94f189278476",
+        "product_id": "e880bb70-7cdd-4772-b2bd-a05d36090e04",
         "product_name": "Noise Cancelling Over-Ear Headphones",
         "product_category": "Electronics",
         "product_type": "Headphones",
         "product_price": 199.99
     },
     {
-        "product_id": "7bae1615-daba-403b-9659-1547abde6b55",
+        "product_id": "9dd793fc-3a16-4873-a1dc-87a788dd615e",
         "product_name": "Wireless Bluetooth Earbuds",
         "product_category": "Electronics",
         "product_type": "Headphones",
         "product_price": 89.99
     },
     {
-        "product_id": "927452f8-916d-496c-97a2-3a57188a5f28",
+        "product_id": "f92865b9-7a71-43ed-ab3b-0d8b1163625a",
         "product_name": "SmartWatch Series 6",
         "product_category": "Electronics",
         "product_type": "Smartwatch",
         "product_price": 399.99
     },
     {
-        "product_id": "4bf2a811-9cd7-4309-aa9c-772aaa572133",
+        "product_id": "1b2d0096-de83-4ebb-bbac-dfe2a2ddf2a4",
         "product_name": "Fitness Tracker Pro",
         "product_category": "Electronics",
         "product_type": "Smartwatch",
         "product_price": 149.99
     },
     {
-        "product_id": "7fa78212-6c51-47e6-afac-5e5e29014cc5",
+        "product_id": "de598c0d-3aea-49c9-8e30-2d41be613c82",
         "product_name": "Premium 10\u201d Tablet",
         "product_category": "Electronics",
         "product_type": "Tablet",
         "product_price": 349.99
     },
     {
-        "product_id": "b8624b07-6391-4fdd-aa47-9572fe71b32e",
+        "product_id": "2e1d6162-d288-48df-af81-c641978f5530",
         "product_name": "Compact 8\u201d Kids Tablet",
         "product_category": "Electronics",
         "product_type": "Tablet",
         "product_price": 199.99
     },
     {
-        "product_id": "8be1a45a-0de8-4e30-a3f5-86e6de2cea43",
+        "product_id": "4d09f1ac-6911-4b65-b74a-c6123d7111a9",
         "product_name": "DSLR Camera with Kit Lens",
         "product_category": "Electronics",
         "product_type": "Camera",
         "product_price": 799.99
     },
     {
-        "product_id": "426e5bc6-145c-4d70-8f29-99d58715c085",
+        "product_id": "90478711-2ce2-460b-8f26-938c15393d2b",
         "product_name": "Compact Digital Camera",
         "product_category": "Electronics",
         "product_type": "Camera",
         "product_price": 299.99
     },
     {
-        "product_id": "fbda4bb1-c450-49b2-a754-29c448b98fdd",
+        "product_id": "582f05b0-6ac9-4196-a3f4-b39f0d3f700c",
         "product_name": "Smart Speaker with Voice Assistant",
         "product_category": "Electronics",
         "product_type": "Smart Home Device",
         "product_price": 129.99
     },
     {
-        "product_id": "e3e1cca1-afee-4dbd-907f-7dfc73fc3081",
+        "product_id": "5abd9605-bf6f-4e22-8ef6-225c822c94b8",
         "product_name": "Smart Thermostat",
         "product_category": "Electronics",
         "product_type": "Smart Home Device",
         "product_price": 249.99
     },
     {
-        "product_id": "79cd17e3-2b32-4c5c-9572-79828f0c86ec",
+        "product_id": "7658973f-a773-4a4a-812d-e16cafd30689",
         "product_name": "Fast Charging USB-C Cable",
         "product_category": "Electronics",
         "product_type": "Charger",
         "product_price": 19.99
     },
     {
-        "product_id": "6da189b6-968a-436f-a0b2-94a9a1072862",
+        "product_id": "8b388781-792d-4640-b70f-acf98ae4fb55",
         "product_name": "Wireless Charger Pad",
         "product_category": "Electronics",
         "product_type": "Charger",
         "product_price": 29.99
     },
     {
-        "product_id": "127f77dd-47ea-4116-b426-f7e3610568a1",
+        "product_id": "bb3d5cbe-300d-40f2-9bd9-1c49ed816436",
         "product_name": "Latest Gaming Console",
         "product_category": "Electronics",
         "product_type": "Gaming Console",
         "product_price": 499.99
     },
     {
-        "product_id": "1a085902-2ce1-4631-a2f6-1d54c39e4b20",
+        "product_id": "21699b22-cdad-4ad2-84f8-bd4a2961e17c",
         "product_name": "Handheld Gaming Device",
         "product_category": "Electronics",
         "product_type": "Gaming Console",
         "product_price": 299.99
     },
     {
-        "product_id": "1678c183-000f-4ebb-9b41-fef00a7cda19",
+        "product_id": "160783c6-007c-4bd4-b248-2d055556bbef",
         "product_name": "4K Ultra HD Smart TV",
         "product_category": "Electronics",
         "product_type": "TV",
         "product_price": 699.99
     },
     {
-        "product_id": "ea402f9e-5fac-44ad-888f-e9fb0b8f0b76",
+        "product_id": "992de181-3d4e-4f55-9637-dd4067669e09",
         "product_name": "LED TV 32\u201d",
         "product_category": "Electronics",
         "product_type": "TV",
         "product_price": 229.99
     },
     {
-        "product_id": "54111b53-d56e-4715-9efc-00cf10d78d73",
+        "product_id": "c8c2c53b-97ca-4534-961d-da6a3c4debfb",
         "product_name": "Smart Doorbell with Camera",
         "product_category": "Electronics",
         "product_type": "Home Security",
         "product_price": 179.99
     },
     {
-        "product_id": "a0b464ed-ef00-4ca7-895c-8a3469bff996",
+        "product_id": "47f702d3-bc2d-44a1-8444-3ad54715f210",
         "product_name": "Indoor Security Camera",
         "product_category": "Electronics",
         "product_type": "Home Security",
         "product_price": 99.99
     },
     {
-        "product_id": "ae57f082-ad6a-4263-9c43-f3893867b827",
+        "product_id": "f3364771-cc9c-4796-a702-2a6f55fe63dd",
         "product_name": "High-Capacity Power Bank 20,000mAh",
         "product_category": "Electronics",
         "product_type": "Power Bank",
         "product_price": 49.99
     },
     {
-        "product_id": "421970fb-d13c-4bb5-acce-6651b53711bf",
+        "product_id": "4a88e1ba-721a-4987-b66b-a02b97c0aeb3",
         "product_name": "Compact Power Bank 10,000mAh",
         "product_category": "Electronics",
         "product_type": "Power Bank",
         "product_price": 29.99
     },
     {
-        "product_id": "60932c32-6813-4f8f-9c51-87fdef810a31",
+        "product_id": "086c7cb0-c260-4b5c-a747-58a3c4644fa9",
         "product_name": "Electric Coffee Maker",
         "product_category": "Home & Kitchen",
         "product_type": "Kitchen Appliance",
         "product_price": 89.99
     },
     {
-        "product_id": "5fe3fe66-b7e7-4f57-860c-0bcf53097142",
+        "product_id": "6f03459d-af9b-43ce-b8cd-32557f70987e",
         "product_name": "Air Fryer 3.5L",
         "product_category": "Home & Kitchen",
         "product_type": "Kitchen Appliance",
         "product_price": 119.99
     },
     {
-        "product_id": "a6c18482-10dd-44d0-bb84-2577636536e8",
+        "product_id": "c7ad88a1-e050-4b70-8228-4a9bf370f1d4",
         "product_name": "Modern Area Rug (5x7 ft)",
         "product_category": "Home & Kitchen",
         "product_type": "Home Decor",
         "product_price": 149.99
     },
     {
-        "product_id": "bce91dc0-3ebb-4c03-94cc-ad0e58015107",
+        "product_id": "5f4f8c26-bef9-4190-ab34-e68eb18a9361",
         "product_name": "Decorative Throw Pillow",
         "product_category": "Home & Kitchen",
         "product_type": "Home Decor",
         "product_price": 24.99
     },
     {
-        "product_id": "a48e1b1f-a764-46ac-81a2-9ef7389f5041",
+        "product_id": "09698f7d-23f2-4a71-a0fb-619e19daf577",
         "product_name": "Adjustable Office Chair",
         "product_category": "Home & Kitchen",
         "product_type": "Furniture",
         "product_price": 159.99
     },
     {
-        "product_id": "c8048199-5fed-4133-9d0c-fdc56b53a52f",
+        "product_id": "e77ecaac-1803-4bdc-bae7-7483e075f5e8",
         "product_name": "Compact Dining Table Set",
         "product_category": "Home & Kitchen",
         "product_type": "Furniture",
         "product_price": 299.99
     },
     {
-        "product_id": "3dd09665-2c36-4775-a25a-5c4bfb741f16",
+        "product_id": "3412afb7-40e4-4fc1-a04b-4c1d9a59e1f3",
         "product_name": "Robot Vacuum Cleaner",
         "product_category": "Home & Kitchen",
         "product_type": "Cleaning Supply",
         "product_price": 249.99
     },
     {
-        "product_id": "29f8ad35-be96-437a-9403-67117ad506b0",
+        "product_id": "7d26e807-ed27-46a0-9429-86a3aec542ca",
         "product_name": "Microfiber Cleaning Cloth Set",
         "product_category": "Home & Kitchen",
         "product_type": "Cleaning Supply",
         "product_price": 15.99
     },
     {
-        "product_id": "0cb9ffd9-e617-4a38-a504-bd32162087b4",
+        "product_id": "b688e269-f84b-473a-a7f9-51a31cd4bc65",
         "product_name": "Non-Stick Cookware Set",
         "product_category": "Home & Kitchen",
         "product_type": "Cookware",
         "product_price": 99.99
     },
     {
-        "product_id": "4202a47b-9a00-4eff-91f8-21f5c1222995",
+        "product_id": "26ea71c3-9dc3-4295-a640-e48101aa9fad",
         "product_name": "Cast Iron Skillet",
         "product_category": "Home & Kitchen",
         "product_type": "Cookware",
         "product_price": 39.99
     },
     {
-        "product_id": "7bb776a1-a225-4711-8a80-84bae3179225",
+        "product_id": "76629947-c6ad-47d9-8f99-21a07a2eaed9",
         "product_name": "Multi-Tier Storage Rack",
         "product_category": "Home & Kitchen",
         "product_type": "Storage Solution",
         "product_price": 89.99
     },
     {
-        "product_id": "25b1d4d5-c5f9-4c2f-bce6-0e8b68b1778a",
+        "product_id": "0b9ec7ea-c71f-4f45-897a-b6669a3c9aef",
         "product_name": "Stackable Storage Bins",
         "product_category": "Home & Kitchen",
         "product_type": "Storage Solution",
         "product_price": 29.99
     },
     {
-        "product_id": "c46600b3-a7cf-4b0b-bd8c-823dce4c555d",
+        "product_id": "2f847a55-5b7b-4671-b93b-a7c5f2ee5236",
         "product_name": "Queen Size Comforter Set",
         "product_category": "Home & Kitchen",
         "product_type": "Bedding",
         "product_price": 119.99
     },
     {
-        "product_id": "62b14905-ca10-4629-9323-0bc2fcc57861",
+        "product_id": "22a88cf3-72a8-4090-818e-b5e21aece9cf",
         "product_name": "Memory Foam Pillow",
         "product_category": "Home & Kitchen",
         "product_type": "Bedding",
         "product_price": 49.99
     },
     {
-        "product_id": "7c71a0eb-2d5d-4e0d-933a-bb2500072aaa",
+        "product_id": "9695e36b-6f6f-415b-9683-11f8142b9623",
         "product_name": "LED Floor Lamp",
         "product_category": "Home & Kitchen",
         "product_type": "Lighting",
         "product_price": 79.99
     },
     {
-        "product_id": "f83b6179-7b55-4420-bcfb-41e720545c7e",
+        "product_id": "e8bb23fa-8527-4347-a351-d88020550db9",
         "product_name": "Smart Bulb Set (4-pack)",
         "product_category": "Home & Kitchen",
         "product_type": "Lighting",
         "product_price": 39.99
     },
     {
-        "product_id": "74ad07b4-49e0-4a94-a91c-3211ad454f32",
+        "product_id": "6df4c7ed-d25c-4f47-86ad-929e2f2a3350",
         "product_name": "Folding Lawn Chair",
         "product_category": "Home & Kitchen",
         "product_type": "Outdoor Furniture",
         "product_price": 39.99
     },
     {
-        "product_id": "4e89234d-324b-44a2-b85f-0e50cec9324c",
+        "product_id": "cb36e335-09f4-4676-8879-10ea54bfd52d",
         "product_name": "Patio Table with Umbrella",
         "product_category": "Home & Kitchen",
         "product_type": "Outdoor Furniture",
         "product_price": 229.99
     },
     {
-        "product_id": "089d24e7-c022-404f-a86b-93bde65667a1",
+        "product_id": "52c8f828-10ea-4884-aaa3-e38b0f64a1ba",
         "product_name": "Ceramic Dinnerware Set (Service for 4)",
         "product_category": "Home & Kitchen",
         "product_type": "Dining",
         "product_price": 79.99
     },
     {
-        "product_id": "06b82753-df76-4438-8d3d-bf03c5cf608d",
+        "product_id": "a5c819e5-2c4c-44ea-9eee-ddc9e872f940",
         "product_name": "Stainless Steel Cutlery Set",
         "product_category": "Home & Kitchen",
         "product_type": "Dining",
         "product_price": 49.99
     },
     {
-        "product_id": "cbedbceb-4235-4c13-8447-5747f151970c",
+        "product_id": "39335be0-1c3e-4df1-a6d8-3cc1fe3d9da6",
         "product_name": "Pitcher Water Filter",
         "product_category": "Home & Kitchen",
         "product_type": "Water Filtration",
         "product_price": 29.99
     },
     {
-        "product_id": "bdef14f1-cad9-4cb9-8604-1dbbac96abda",
+        "product_id": "4ef1e03d-b512-4ef1-9f0c-c9b88487f12d",
         "product_name": "Under-Sink Water Filter System",
         "product_category": "Home & Kitchen",
         "product_type": "Water Filtration",
         "product_price": 99.99
     },
     {
-        "product_id": "664b322b-8a3e-44f2-a64c-23f50a9b34d0",
+        "product_id": "3fb4c900-09d6-4af1-ad82-a80a7d7116d9",
         "product_name": "Toaster Oven",
         "product_category": "Home & Kitchen",
         "product_type": "Small Appliance",
         "product_price": 59.99
     },
     {
-        "product_id": "1682f5af-68c9-4563-9026-e96ff73a9eb5",
+        "product_id": "da8e692f-a752-4998-b079-c260d6151912",
         "product_name": "Electric Kettle",
         "product_category": "Home & Kitchen",
         "product_type": "Small Appliance",
         "product_price": 29.99
     },
     {
-        "product_id": "d5c75502-4019-4c21-902c-6d7324abf48e",
+        "product_id": "c2a2c68d-807f-4065-bfee-ab41e17154be",
         "product_name": "Casual Polo Shirt (Various Colors)",
         "product_category": "Clothing & Accessories",
         "product_type": "Men\u2019s Clothing",
         "product_price": 29.99
     },
     {
-        "product_id": "726d3b1a-6006-4d31-83aa-4a71d4cc2907",
+        "product_id": "76952980-d9a8-4bcc-84b1-767af7bbedbe",
         "product_name": "Slim Fit Jeans (Blue, Black)",
         "product_category": "Clothing & Accessories",
         "product_type": "Men\u2019s Clothing",
         "product_price": 49.99
     },
     {
-        "product_id": "56d4c27f-8dc3-47bb-a85b-3cfcf69d01f1",
+        "product_id": "f96d0769-1a90-4b8c-9559-04db1e6bb95d",
         "product_name": "Floral Summer Dress",
         "product_category": "Clothing & Accessories",
         "product_type": "Women\u2019s Clothing",
         "product_price": 39.99
     },
     {
-        "product_id": "0e612e3b-9774-476a-b25e-f53ce11ec62b",
+        "product_id": "f0839bf1-f9fb-4353-a454-5c54154ff828",
         "product_name": "High-Waist Trousers",
         "product_category": "Clothing & Accessories",
         "product_type": "Women\u2019s Clothing",
         "product_price": 34.99
     },
     {
-        "product_id": "2137b5b1-7f38-4ffd-b3fa-7939e20679bf",
+        "product_id": "3a03a651-2000-46c4-a166-be197b8cfa90",
         "product_name": "Leather Wallet",
         "product_category": "Clothing & Accessories",
         "product_type": "Accessory",
         "product_price": 59.99
     },
     {
-        "product_id": "b8eebedf-aa58-4b8b-a03a-2a94953bbe3d",
+        "product_id": "083af02b-b7f9-4be9-9e09-bf55a7d3b021",
         "product_name": "Sunglasses (Various Styles)",
         "product_category": "Clothing & Accessories",
         "product_type": "Accessory",
         "product_price": 19.99
     },
     {
-        "product_id": "d8a9b688-9ac5-4b65-befb-e5597df26c75",
+        "product_id": "8f140eac-98c0-4130-825a-143159baf9c1",
         "product_name": "Classic Sneakers",
         "product_category": "Clothing & Accessories",
         "product_type": "Footwear",
         "product_price": 69.99
     },
     {
-        "product_id": "af282645-a813-4b31-8b07-48f3447e17a6",
+        "product_id": "2d7c4811-54bd-4ece-9c1f-f7a9ba9ce5ed",
         "product_name": "Leather Ankle Boots",
         "product_category": "Clothing & Accessories",
         "product_type": "Footwear",
         "product_price": 89.99
     },
     {
-        "product_id": "94ec756c-4b07-4ae5-9cbb-d3a7e6071ca0",
+        "product_id": "b7c372dc-fa60-473e-9851-729a1eb865a0",
         "product_name": "Woolen Scarf",
         "product_category": "Clothing & Accessories",
         "product_type": "Winter Wear",
         "product_price": 29.99
     },
     {
-        "product_id": "4e4eff4f-71d0-4b27-b160-d9d5e5ffef48",
+        "product_id": "da5e08e3-6324-44ef-a811-db3d187f041b",
         "product_name": "Insulated Winter Gloves",
         "product_category": "Clothing & Accessories",
         "product_type": "Winter Wear",
         "product_price": 24.99
     },
     {
-        "product_id": "bb24846d-6d75-49bc-aab6-a8fc6c3aaa94",
+        "product_id": "b1e0a9b6-e369-4efd-808e-be28ec44c142",
         "product_name": "Moisture-Wicking Workout T-Shirt",
         "product_category": "Clothing & Accessories",
         "product_type": "Activewear",
         "product_price": 24.99
     },
     {
-        "product_id": "cfe6f1c4-f4e3-49ea-8444-c8d6863db2db",
+        "product_id": "1c54d840-c002-44d3-af41-9908c1638278",
         "product_name": "Yoga Pants",
         "product_category": "Clothing & Accessories",
         "product_type": "Activewear",
         "product_price": 29.99
     },
     {
-        "product_id": "a7fcc564-e31d-4719-90e1-d68e82f4a1d6",
+        "product_id": "b6f241fe-a311-45e5-bd22-507c93c3ca61",
         "product_name": "Minimalist Pendant Necklace",
         "product_category": "Clothing & Accessories",
         "product_type": "Jewelry",
         "product_price": 49.99
     },
     {
-        "product_id": "30d03381-83ba-4778-b739-336159ab1d26",
+        "product_id": "9ac82090-7d88-4892-b49d-af9cdb6ca2f3",
         "product_name": "Classic Hoop Earrings",
         "product_category": "Clothing & Accessories",
         "product_type": "Jewelry",
         "product_price": 29.99
     },
     {
-        "product_id": "399a592c-ec4c-4c9e-82c3-edaab97d33f7",
+        "product_id": "6b04891d-257f-4f4e-9c79-ddb5bc802128",
         "product_name": "Crossbody Bag",
         "product_category": "Clothing & Accessories",
         "product_type": "Bag",
         "product_price": 79.99
     },
     {
-        "product_id": "9465ac49-58fb-4d52-a02d-76d3e8e7863f",
+        "product_id": "fb823b64-9928-48f7-a0ed-a74b00e3584d",
         "product_name": "Travel Duffel Bag",
         "product_category": "Clothing & Accessories",
         "product_type": "Bag",
         "product_price": 89.99
     },
     {
-        "product_id": "63e4735c-a7b8-48d8-a6ee-affb40da1592",
+        "product_id": "bdc6a5a7-b96a-4a39-9e44-791a62d96095",
         "product_name": "Baseball Cap",
         "product_category": "Clothing & Accessories",
         "product_type": "Hat & Cap",
         "product_price": 19.99
     },
     {
-        "product_id": "6eb80ac2-6279-456a-a4d0-f1c6546694c8",
+        "product_id": "4b7bcb95-803e-481c-8cf5-ebfd301eb0d6",
         "product_name": "Beanie Hat",
         "product_category": "Clothing & Accessories",
         "product_type": "Hat & Cap",
         "product_price": 14.99
     },
     {
-        "product_id": "96900371-43b6-48d8-8fe7-691a61346727",
+        "product_id": "f2ecb4f0-5bb9-4ccf-b53b-e6b22682608c",
         "product_name": "Polarized Sunglasses",
         "product_category": "Clothing & Accessories",
         "product_type": "Sunglasses",
         "product_price": 39.99
     },
     {
-        "product_id": "b841f8a5-b472-4627-be29-fabaf019c488",
+        "product_id": "eb3d9be3-3cc6-40e5-ac9a-e1af00d211de",
         "product_name": "Retro Cat-Eye Sunglasses",
         "product_category": "Clothing & Accessories",
         "product_type": "Sunglasses",
         "product_price": 34.99
     },
     {
-        "product_id": "e2186a0c-cb53-4f2f-8b34-0fa512434ebe",
+        "product_id": "ca58a4ae-63c9-4225-8334-42bcfac81f46",
         "product_name": "Leather Dress Belt",
         "product_category": "Clothing & Accessories",
         "product_type": "Belt",
         "product_price": 29.99
     },
     {
-        "product_id": "43346dcd-4860-41b9-8aad-07a1b7436789",
+        "product_id": "817a4e85-68e0-45ee-9be5-6c2c433c4fbb",
         "product_name": "Casual Canvas Belt",
         "product_category": "Clothing & Accessories",
         "product_type": "Belt",
         "product_price": 19.99
     },
     {
-        "product_id": "00d7c939-8530-4d79-9695-c1bb3bab5749",
+        "product_id": "a44d80a8-d536-44db-9b66-8998f5bf34b6",
         "product_name": "Leather Watch Strap",
         "product_category": "Clothing & Accessories",
         "product_type": "Watch Accessory",
         "product_price": 49.99
     },
     {
-        "product_id": "4372f15d-5b89-49dd-8ed1-013a5bb68b75",
+        "product_id": "832ea53f-b79a-49cb-a907-acfa61ed6518",
         "product_name": "Watch Box for Storage",
         "product_category": "Clothing & Accessories",
         "product_type": "Watch Accessory",
         "product_price": 59.99
     },
     {
-        "product_id": "0ff2623e-c48e-4ed3-aadd-98cb8d02cf65",
+        "product_id": "f9908757-0adc-44e0-9fa7-f08fdbc57980",
         "product_name": "Moisturizing Face Cream",
         "product_category": "Health & Beauty",
         "product_type": "Skincare",
         "product_price": 34.99
     },
     {
-        "product_id": "fd86eb9a-a906-47b8-b6ea-2e7004078339",
+        "product_id": "def107a0-ee2c-4510-ab16-5d0ff1c4970f",
         "product_name": "Anti-Aging Serum",
         "product_category": "Health & Beauty",
         "product_type": "Skincare",
         "product_price": 49.99
     },
     {
-        "product_id": "fc6ff345-7787-4057-9e1a-b182f2388567",
+        "product_id": "6a2ea0a1-cd4a-441c-8d5d-b8f711071cf7",
         "product_name": "Shampoos & Conditioners Set",
         "product_category": "Health & Beauty",
         "product_type": "Hair Care",
         "product_price": 19.99
     },
     {
-        "product_id": "1b9b53f7-1994-4e03-979c-377340f23356",
+        "product_id": "d2ab741b-11f9-4350-a1e7-dfa4ee9f6b9c",
         "product_name": "Hair Styling Tools (Straightener, Curler)",
         "product_category": "Health & Beauty",
         "product_type": "Hair Care",
         "product_price": 89.99
     },
     {
-        "product_id": "c37197e1-fb7e-4ecc-a137-5b86e31e5e8f",
+        "product_id": "46bc3c9d-e337-4c49-bd5d-4bc7f312b454",
         "product_name": "Yoga Mat",
         "product_category": "Health & Beauty",
         "product_type": "Fitness",
         "product_price": 29.99
     },
     {
-        "product_id": "2107039a-5ba5-4c17-b11b-a4c26af49a81",
+        "product_id": "c9cf3fd6-9200-4b46-ba9a-5f83a2ea4ce2",
         "product_name": "Resistance Bands Set",
         "product_category": "Health & Beauty",
         "product_type": "Fitness",
         "product_price": 24.99
     },
     {
-        "product_id": "2ff63db4-decd-426b-8ea5-5a6ed8b3ee3e",
+        "product_id": "9eb3de1f-151e-440b-a10e-ba1c7b0ac287",
         "product_name": "Electric Toothbrush",
         "product_category": "Health & Beauty",
         "product_type": "Personal Care",
         "product_price": 79.99
     },
     {
-        "product_id": "94a5f737-f0da-4fb6-8df8-b3fd59b5d98d",
+        "product_id": "93d79912-5822-48ed-8366-7100657f9fa8",
         "product_name": "Beard Trimmer",
         "product_category": "Health & Beauty",
         "product_type": "Personal Care",
         "product_price": 59.99
     },
     {
-        "product_id": "5cef04e5-79b2-4dc7-b056-44063902b727",
+        "product_id": "fc2e5941-70bf-42dd-91a7-a7345d83df7c",
         "product_name": "Foundation and Concealer Set",
         "product_category": "Health & Beauty",
         "product_type": "Makeup",
         "product_price": 39.99
     },
     {
-        "product_id": "9be30ad1-7b91-4588-ac09-3f7fbdb20582",
+        "product_id": "2b6d69f9-f58c-4887-a74c-0c4dc1664ad1",
         "product_name": "Eye Shadow Palette",
         "product_category": "Health & Beauty",
         "product_type": "Makeup",
         "product_price": 24.99
     },
     {
-        "product_id": "4afcfcad-6856-442c-9fa0-4cf7663fe54b",
+        "product_id": "6345e4f8-35ca-4e0b-a229-5616c5be2014",
         "product_name": "Nail Polish Set",
         "product_category": "Health & Beauty",
         "product_type": "Nail Care",
         "product_price": 14.99
     },
     {
-        "product_id": "da5c45a7-b013-4ac0-b3af-60d56a36713a",
+        "product_id": "7e996980-c47d-4746-8af7-7a7bc9f86589",
         "product_name": "Nail Care Tools Kit",
         "product_category": "Health & Beauty",
         "product_type": "Nail Care",
         "product_price": 19.99
     },
     {
-        "product_id": "17fea3aa-5c0e-429e-8b8f-13ba7555b039",
+        "product_id": "08078af7-81fb-4003-afe7-94690537c90d",
         "product_name": "Body Scrub Exfoliator",
         "product_category": "Health & Beauty",
         "product_type": "Body Care",
         "product_price": 22.99
     },
     {
-        "product_id": "0829ca82-73de-47dc-955f-05035fe945e0",
+        "product_id": "bce10df5-6d7b-444f-a6d6-f28f63725e8f",
         "product_name": "Bath Bombs Gift Set",
         "product_category": "Health & Beauty",
         "product_type": "Body Care",
         "product_price": 29.99
     },
     {
-        "product_id": "7bf8bda2-b359-42c5-a5ec-ee779e090c5e",
+        "product_id": "7a89d745-3943-4792-8e97-fff87e69b1a8",
         "product_name": "Essential Oil Diffuser",
         "product_category": "Health & Beauty",
         "product_type": "Wellness",
         "product_price": 39.99
     },
     {
-        "product_id": "79bd1506-248a-45fa-a476-3590ad9fc56f",
+        "product_id": "c2954c4c-4564-4573-9867-f7a60dbe4a38",
         "product_name": "Relaxation Candle Set",
         "product_category": "Health & Beauty",
         "product_type": "Wellness",
         "product_price": 22.99
     },
     {
-        "product_id": "29fb81c4-f6f0-40d2-8dad-e4635a464465",
+        "product_id": "18f55eca-9d35-4e3a-87a0-c4c5670ecf1d",
         "product_name": "SPF 50 Sunscreen Lotion",
         "product_category": "Health & Beauty",
         "product_type": "Sun Protection",
         "product_price": 19.99
     },
     {
-        "product_id": "d749243c-cf79-4cb9-be5d-84d83c8a23f3",
+        "product_id": "d58a3622-4f0a-4105-87d8-8b03948fa3ab",
         "product_name": "After-Sun Hydrating Gel",
         "product_category": "Health & Beauty",
         "product_type": "Sun Protection",
         "product_price": 24.99
     },
     {
-        "product_id": "a4a0ce1a-d7d9-49f1-9334-863368186fd5",
+        "product_id": "c25a82da-566c-4e2c-a7a6-045ecf6475a1",
         "product_name": "Digital Thermometer",
         "product_category": "Health & Beauty",
         "product_type": "Health Monitoring",
         "product_price": 15.99
     },
     {
-        "product_id": "f139c37e-4495-4087-b66a-ed99b7879c40",
+        "product_id": "7fdf62f8-2a3f-423a-9bcf-c367a0113d7f",
         "product_name": "Blood Pressure Monitor",
         "product_category": "Health & Beauty",
         "product_type": "Health Monitoring",
         "product_price": 59.99
     },
     {
-        "product_id": "c58b5c8b-7180-4902-8bd2-90b46b656b74",
+        "product_id": "00215986-b11e-4a8d-ba01-59e651dd7298",
         "product_name": "Daily Multivitamin Tablets",
         "product_category": "Health & Beauty",
         "product_type": "Vitamins & Supplements",
         "product_price": 14.99
     },
     {
-        "product_id": "ca4ea0e9-60e0-4251-97e3-4fe0540a8a94",
+        "product_id": "1d4ebac0-7fa4-4325-a73a-3c4a070200af",
         "product_name": "Omega-3 Fish Oil Capsules",
         "product_category": "Health & Beauty",
         "product_type": "Vitamins & Supplements",
         "product_price": 19.99
     },
     {
-        "product_id": "7ac9d91f-c100-4b2c-9bc5-849bc5d392f2",
+        "product_id": "26dfbe52-f277-46bb-a13d-f84d3639f789",
         "product_name": "First Aid Kit",
         "product_category": "Health & Beauty",
         "product_type": "First Aid",
         "product_price": 29.99
     },
     {
-        "product_id": "4246a9a6-fdb0-4936-9ded-d88275080fa4",
+        "product_id": "d32e276c-1917-4f1a-8ab6-97cf1185f42f",
         "product_name": "Antiseptic Wipes and Ointments",
         "product_category": "Health & Beauty",
         "product_type": "First Aid",
